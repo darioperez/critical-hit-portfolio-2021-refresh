@@ -42,7 +42,7 @@ Due to the fast-growing of The MLS™, they needed set of ready professional dev
 
 ## The Solution.
 
-We were able to seamlessly integrate to The MLS’s teams and provide all the help the needed to accelerate their product and feature delivery, ensuring the high quality they are known for.
+I was able to seamlessly integrate to The MLS’s teams and provide all the help the needed to accelerate their product and feature delivery, ensuring the high quality they are known for.
 
 </div>
 
@@ -52,7 +52,7 @@ We were able to seamlessly integrate to The MLS’s teams and provide all the he
 
 ## The Outcome.
 
-With our support The MLS™ were able to improve their productivity without sacrifice quality. We participated in the UX/UI design and frontend development of a wide variety of features and projects.
+With our support The MLS™ were able to improve their productivity without sacrifice quality. I participated in the UX/UI design and frontend development of a wide variety of features and projects.
 
 </div>
 
@@ -61,11 +61,11 @@ With our support The MLS™ were able to improve their productivity without sacr
 
 ### VestaPlus
 
-For VestaPlus we helped in UX/UI design of new features such as client dashboard, listing Search (comprehensive and quick search), flexible reports and their completely new VestaPlus mobile app.
+For VestaPlus I helped in UX/UI design of new features such as client dashboard, listing Search (comprehensive and quick search), flexible reports and their completely new VestaPlus mobile app.
 
-We were also part of the team in charge of the development of VestaPlus’ new marketing site.
+I was also part of the team in charge of the development of VestaPlus’ new marketing site.
 
-In conjunction with VestaPlus’ UX and marketing team we were able to participate in the ideation, architechture, design and development of their help system and kwoledge base.
+In conjunction with VestaPlus’ UX and marketing team I was able to participate in the ideation, architechture, design and development of their help system and kwoledge base.
 
 <img class="mb-6" src="/projects-assets/the-mls/Vestaplus - Header.png" />
 <img class="mb-6" src="/projects-assets/the-mls/Vestaplus - Features.png" />
@@ -79,7 +79,7 @@ In conjunction with VestaPlus’ UX and marketing team we were able to participa
 
 ### Broker Caravan
 
-The MLS™ also totally remodeled The MLS Broker Caravan™, their digital and printed publication that connects their customers with a highly-targeted audience of influential real estate professionals. We were part of the marketing website team and provided UX and frontend develeopment expertice on their new advertising platform optimized for high rate conversions and outstanding easy of use.
+The MLS™ also totally remodeled The MLS Broker Caravan™, their digital and printed publication that connects their customers with a highly-targeted audience of influential real estate professionals. I was part of the marketing website team and provided UX and frontend develeopment expertice on their new advertising platform optimized for high rate conversions and outstanding easy of use.
 
 <img class="mb-6" src="/projects-assets/the-mls/Broker Caravan - Header.png" />
 <img class="mb-6" src="/projects-assets/the-mls/Broker Caravan - Website.png" />
@@ -93,7 +93,7 @@ The MLS™ also totally remodeled The MLS Broker Caravan™, their digital and p
 
 ### The MLS Summit
 
-We created a website for The MLS Summit™ a once a year power-packed conference that The MLS™ runs every year and covers the latest in real estate trends and disruptors.
+I created a website for The MLS Summit™ a once a year power-packed conference that The MLS™ runs every year and covers the latest in real estate trends and disruptors.
 
 <img class="mb-6" src="/projects-assets/the-mls/The MLS Summit - Site.png" />
 
@@ -105,7 +105,7 @@ We created a website for The MLS Summit™ a once a year power-packed conference
 
 ### The MLS Blog
 
-As long as The MLS™ were improving and refining their products they also updated parts of their brand so we were in charge of the visual refreshing of their news blog.
+As long as The MLS™ were improving and refining their products they also updated parts of their brand so I was in charge of the visual refreshing of their news blog.
 
 <img class="mb-6" src="/projects-assets/the-mls/The MLS Blog - Refresh.png" />
 

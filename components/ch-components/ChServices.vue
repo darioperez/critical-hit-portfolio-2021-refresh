@@ -1,7 +1,7 @@
 <template>
   <section class="ch-section--services py-40 px-5 md:px-12">
     <div class="max-w-4xl mx-auto">
-      <h2 class="uppercase font-black mb-6">Skills — Our services</h2>
+      <h2 class="uppercase font-black mb-6">Skills — Services</h2>
 
       <p class="font-display text-5xl mb-6">Get a buff in your goals.</p>
 
@@ -43,22 +43,22 @@
 
       <div class="text-xl max-w-xl">
         <p class="mb-6">
-          With care to detail and love for excellence our team built beautiful
-          and highly efficient web experiences and brands.
+          With care to detail and love for excellence I built beautiful and
+          highly efficient web experiences and brands.
         </p>
         <p class="mb-6">
-          Whether creating something new or improving something existing, we
-          help brands to reach their customers and craft digital products.
+          Whether creating something new or improving something existing, I help
+          brands to reach their customers and craft digital products.
         </p>
         <p class="mb-6">
-          We also provide in-house team improvement and level up through
+          I also provide in-house team improvement and level up through
           orientation and consultancy.
         </p>
         <p class="">
-          Our party is formed by specialists armed with modern technologies,
-          ready to face any challenge and hit the best results. We explore,
-          research and plan, design and develop, test and deliver lasting and
-          reliable solutions.
+          'm armed with strong foundations and modern technologies, ready to
+          face any challenge and hit the best results. I explore, research,
+          plan, design, develop, test and deliver long lasting and reliable
+          solutions.
         </p>
       </div>
     </div>

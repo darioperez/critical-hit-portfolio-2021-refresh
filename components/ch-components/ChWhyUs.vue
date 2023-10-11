@@ -3,29 +3,28 @@
     <div class="max-w-4xl mx-auto">
       <h2 class="uppercase font-black mb-6">Identity —</h2>
 
-      <p class="font-display text-5xl mb-6">Why us?</p>
+      <p class="font-display text-5xl mb-6">Why me?</p>
 
       <div class="box-border flex flex-wrap text-xl">
         <article class="flex-initial md:w-1/2 pr-6 mb-6">
           <h3 class="font-bold mb-2">Heartful and brainful.</h3>
           <p class="">
-            We love what we do so we do it outstanding. We face every quest with
+            I love what I do so I do it outstanding. I face every quest with
             creativity and logic working as one.
           </p>
         </article>
         <article class="flex-initial md:w-1/2 pr mb-6">
-          <h3 class="font-bold mb-2">We are not limited by timezones.</h3>
+          <h3 class="font-bold mb-2">I'm not limited by timezones.</h3>
           <p class="">
-            We are citizens of the world. We are ready to help anytime,
-            anywhere.
+            I'm a citizen of the world. I'm ready to help anytime, anywhere.
           </p>
         </article>
         <article class="flex-initial md:w-1/2">
           <h3 class="font-bold mb-2">Full spectrum of services.</h3>
           <p class="">
-            We are here for you. From logo design or concept MVP to full fledged
-            platform through ideation, marketing, design, develop, test,
-            delivery and support. If you need it, we have it.
+            I'm here for you. From branding design or concept MVP to full
+            fledged platform through ideation, marketing, design, develop, test,
+            delivery and support. If you need it, I have it.
           </p>
         </article>
       </div>

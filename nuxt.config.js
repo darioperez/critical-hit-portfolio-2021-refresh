@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'critical-hit-portfolio-2021-refresh',
+    title: 'Darío Pérez',
     htmlAttrs: {
       lang: 'en',
     },

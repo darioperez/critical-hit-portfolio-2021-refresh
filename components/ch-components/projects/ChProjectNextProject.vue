@@ -28,7 +28,7 @@
       <p class="font-display text-4xl md:text-6xl mb-6">Ready to roll?</p>
 
       <a
-        href="mailto:criticalhit.creative.studio@gmail.com"
+        href="mailto:dddarioperezzz@gmail.com"
         class="inline-block bg-brand text-white py-3 px-6 rounded-full font-display font-bold text-xl"
       >
         Let's talk

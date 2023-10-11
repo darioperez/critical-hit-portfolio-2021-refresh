@@ -38,7 +38,7 @@ Plug Altermedia were struggling providing a separated set of tools working toget
 
 There was too much manual work in the process and clients had no control over their radios and relied totally on Plug Altermedia even for simplest things such as updating company logo, this was unacceptable.
 
-Plug Altermedia reached us with the idea of building the platform of “tomorrow’s radio but today”.
+Plug Altermedia reached me with the idea of building the platform of “tomorrow’s radio, today”.
 
 </div>
 
@@ -46,7 +46,7 @@ Plug Altermedia reached us with the idea of building the platform of “tomorrow
 
 ## The Solution.
 
-We designed and built an completelly new and integrated platform named Plug Streaming based on most modern tools and standars in low latency audio and video streaming with focus in availability, security and customization.
+I designed and built an completelly new and integrated platform named Plug Streaming based on most modern tools and standars in low latency audio and video streaming with focus in availability, security and customization.
 
 </div>
 
@@ -60,7 +60,7 @@ We designed and built an completelly new and integrated platform named Plug Stre
 
 <img class="mb-6" src="/projects-assets/plugstreaming/PlugStreaming - Embeddable Player.png" />
 
-They wanted their platform to be available on every major device so we built a serie of live streaming native and web players that are available from traditional PCs, smartphones, smartwatches to even a modern refrigerator so radio listeners have always access to their favorite live radio streamings.
+They wanted their platform to be available on every major device so I built a serie of live streaming native and web players that are available from traditional PCs, smartphones, smartwatches to even a modern refrigerator so radio listeners have always access to their favorite live radio streamings.
 
 </div>
 
@@ -85,7 +85,7 @@ They wanted their platform to be available on every major device so we built a s
   </div>
 </div>
 
-Remember that radio stations needed to talk to Plug Altermedia for even the most simple changes to be manually made in their live streaming players? Well, we build a totally automanagable radio station control panel where customers are able to fully manage and customize their live streaming players.
+Remember that radio stations needed to talk to Plug Altermedia for even the most simple changes to be manually made in their live streaming players? Well, I build a totally automanagable radio station control panel where customers are able to fully manage and customize their live streaming players.
 
 </div>
 
@@ -107,6 +107,6 @@ The players are always providing meaningful and useful information to the listen
   </div>
 </div>
 
-We integrated socia media and blogs into the player so listener can check latest info from their favorite radio stations. In addition we added a realtime chat where listeners and show staff can interact in realtime.
+I integrated socia media and blogs into the player so listener can check latest info from their favorite radio stations. In addition I added a realtime chat where listeners and show staff can interact in realtime.
 
 </div>

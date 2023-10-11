@@ -42,7 +42,7 @@ Europe Shuttle was relying on a backoffice layer that rapidlly topped its potent
 
 ## The Solution.
 
-In order to provide to Europe Shuttle with the right strategy to their next giant step in their business, we ran a deep market and customer research to trace timeline of effective actions to help them reach their goals by renewing their backoffice with focus on usability, effectiveness, extensibility and world market reach and, in the process of doing so, Europe Shuttle decided to modernize their business model.
+In order to provide to Europe Shuttle with the right strategy to their next giant step in their business, I ran a deep market and customer research to trace timeline of effective actions to help them reach their goals by renewing their backoffice with focus on usability, effectiveness, extensibility and world market reach and, in the process of doing so, Europe Shuttle decided to modernize their business model.
 
 </div>
 
@@ -54,17 +54,17 @@ In order to provide to Europe Shuttle with the right strategy to their next gian
 
 Europe Shuttle is proud of the quality of their service so they completely revamped their backoffice and business model to match that excellence and Rhombus was the first step on their roadmap.
 
-Rhombus is the core at Europe Shuttle operation and we help them to create a strategy that allowed them to settle the foundations of a long lasting and reliable platform that is not only used by them but also provided as a white labeled SaaS for reservation, dispatching and fleet management for transfer companies.
+Rhombus is the core at Europe Shuttle operation and I help them to create a strategy that allowed them to settle the foundations of a long lasting and reliable platform that is not only used by them but also provided as a white labeled SaaS for reservation, dispatching and fleet management for transfer companies.
 
-We also mentored their in-house team of developers and designers on the early stages of the development process, providing them with guidance in IT infrastructure, tech stack, UX and development.
+I also mentored their in-house team of developers and designers on the early stages of the development process, providing them with guidance in IT infrastructure, tech stack, UX and development.
 
-The foundations we helped them to build have allowed them to seamlessly integrate 3rd party services and new features and products to the mix leveragin their potential and growth goals.
+The foundations I helped them to build have allowed them to seamlessly integrate 3rd party services and new features and products to the mix leveragin their potential and growth goals.
 
 </div>
 
 <div class="ch-project__outcome section">
 
-We created an identity for Rhombus, their new backoffice.
+I created an identity for Rhombus, their new backoffice.
 
 <img class="mb-6" src="/projects-assets/es-rhombus/Rhombus - Logo Layouts.png" />
 <img class="mb-6" src="/projects-assets/es-rhombus/Rhombus - Brand Colors.png" />

@@ -3,11 +3,11 @@
     class="ch-section--contact-us pt-40 pb-20 px-5 md:px-12 bg-black text-white text-center"
   >
     <p class="font-display text-4xl md:text-7xl mb-20">
-      Have a Quest for Us?<br />The next journey awaits.
+      Have a Quest for me?<br />The next journey awaits.
     </p>
 
     <a
-      href="mailto:criticalhit.creative.studio@gmail.com"
+      href="mailto:dddarioperezzz@gmail.com"
       class="inline-block bg-brand text-white text-xl py-3 px-6 rounded-full font-display font-bold"
     >
       Let's talk

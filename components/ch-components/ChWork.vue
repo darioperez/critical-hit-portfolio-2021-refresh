@@ -1,14 +1,14 @@
 <template>
   <section class="py-40 px-5 md:px-12">
     <div class="max-w-4xl mx-auto mb-40">
-      <h2 class="uppercase font-black mb-6">Quests — Our work</h2>
+      <h2 class="uppercase font-black mb-6">Quests — My contributions</h2>
 
       <p class="font-display text-5xl mb-6">
         The people we help,<br />The friends we made.
       </p>
 
       <p class="text-xl max-w-xl mb-9">
-        In our many advertures we have forged bonds of fate with our allies.
+        In my many advertures I have forged bonds of fate with unmatched allies.
         These are some of them.
       </p>
 

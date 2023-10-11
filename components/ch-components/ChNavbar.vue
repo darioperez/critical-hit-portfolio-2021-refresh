@@ -25,10 +25,10 @@
         to="/#ch-about-us"
         class="hidden sm:inline-block p-2 font-display font-bold"
       >
-        About us
+        About me
       </NuxtLink>
       <a
-        href="mailto:criticalhit.creative.studio@gmail.com"
+        href="mailto:dddarioperezzz@gmail.com"
         class="inline-block bg-white text-black py-3 px-6 rounded-full font-display font-bold"
       >
         Let's talk

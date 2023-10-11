@@ -45,9 +45,9 @@ Europe Shuttle provides their transfer services to 97 countries in all types of 
 
 ## The Solution.
 
-We directed an in-depth master and customer research to determine how customers were perceiving the brand and based on it traced a plan to improve Europe Shuttle’s presence.
+I directed an in-depth master and customer research to determine how customers were perceiving the brand and based on it traced a plan to improve Europe Shuttle’s presence.
 
-In order to improve their B2C experience we redesigned their reservation process and defined a strategy and provided mentoring to their in-house team to implement the new solution.
+In order to improve their B2C experience I redesigned their reservation process and defined a strategy and provided mentoring to their in-house team to implement the new solution.
 
 </div>
 <!--/ the solution -->
@@ -58,7 +58,7 @@ In order to improve their B2C experience we redesigned their reservation process
 
 ## The Outcome.
 
-We designed a new logo and essential brand styleguide for Europe Shuttle to represent their new vision and goals.
+I designed a new logo and essential brand styleguide for Europe Shuttle to represent their new vision and goals.
 
 <img class="mb-6" src="/projects-assets/europe-shuttle/ES - Logo.png" />
 <img class="mb-6" src="/projects-assets/europe-shuttle/ES - Brand Colors.png" />
@@ -69,9 +69,9 @@ We designed a new logo and essential brand styleguide for Europe Shuttle to repr
 
 <div class="section ch-project__outcome">
 
-We ran the necessary research and designed a new B2C experience putting in first place customer confort and convenience, featuring great usability, high convertion rates and beautiful design.
+I ran the necessary research and designed a new B2C experience putting in first place customer confort and convenience, featuring great usability, high convertion rates and beautiful design.
 
-We also provided mentoring in IT infrastructure, tech stack and development strategy to their in-house team so Europe Shuttle’s team could settle solid base for their diverse and new world wide vision.
+I also provided mentoring in IT infrastructure, tech stack and development strategy to their in-house team so Europe Shuttle’s team could settle solid base for their diverse and new world wide vision.
 
 <img class="mb-6" src="/projects-assets/europe-shuttle/ES - Website Mockup.png" />
 

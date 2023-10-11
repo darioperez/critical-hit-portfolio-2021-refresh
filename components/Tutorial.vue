@@ -51,7 +51,7 @@
           Welcome to your Nuxt Application
         </h2>
         <p class="mt-3 text-gray-600">
-          We recommend you take a look at the
+          I recommend you take a look at the
           <a
             href="https://nuxtjs.org"
             target="_blank"
