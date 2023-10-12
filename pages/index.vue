@@ -49,7 +49,3 @@ export default {
   created() {},
 }
 </script>
-
-<style lang="pcss">
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Red+Rose:wght@400;700&display=swap');
-</style>
