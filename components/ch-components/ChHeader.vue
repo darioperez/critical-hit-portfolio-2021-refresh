@@ -9,11 +9,7 @@
       <br />
       <span class="text-brand"> Full-Stack Web Developer</span>
       &
-      <span class="text-brand"> UI/UX Designer </span>
-      <br />
-      working at
-      <a href="https://www.ratherlabs.com/" class="underline">Rather Labs 🚀</a>
-      .
+      <span class="text-brand">UI/UX Designer</span>.
 
       <div class="mt-16">
         Feel free to
